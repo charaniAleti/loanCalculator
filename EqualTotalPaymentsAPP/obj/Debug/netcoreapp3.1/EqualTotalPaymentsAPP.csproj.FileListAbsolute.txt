@@ -1,0 +1,16 @@
+C:\Users\Sricharani Aleti\source\repos\EqualTotalPaymentsAPP\EqualTotalPaymentsAPP\obj\Debug\netcoreapp3.1\EqualTotalPaymentsAPP.csprojAssemblyReference.cache
+C:\Users\Sricharani Aleti\source\repos\EqualTotalPaymentsAPP\EqualTotalPaymentsAPP\obj\Debug\netcoreapp3.1\EqualTotalPaymentsAPP.Form1.resources
+C:\Users\Sricharani Aleti\source\repos\EqualTotalPaymentsAPP\EqualTotalPaymentsAPP\obj\Debug\netcoreapp3.1\EqualTotalPaymentsAPP.Form2.resources
+C:\Users\Sricharani Aleti\source\repos\EqualTotalPaymentsAPP\EqualTotalPaymentsAPP\obj\Debug\netcoreapp3.1\EqualTotalPaymentsAPP.csproj.GenerateResource.cache
+C:\Users\Sricharani Aleti\source\repos\EqualTotalPaymentsAPP\EqualTotalPaymentsAPP\obj\Debug\netcoreapp3.1\EqualTotalPaymentsAPP.AssemblyInfoInputs.cache
+C:\Users\Sricharani Aleti\source\repos\EqualTotalPaymentsAPP\EqualTotalPaymentsAPP\obj\Debug\netcoreapp3.1\EqualTotalPaymentsAPP.AssemblyInfo.cs
+C:\Users\Sricharani Aleti\source\repos\EqualTotalPaymentsAPP\EqualTotalPaymentsAPP\obj\Debug\netcoreapp3.1\EqualTotalPaymentsAPP.csproj.CoreCompileInputs.cache
+C:\Users\Sricharani Aleti\source\repos\EqualTotalPaymentsAPP\EqualTotalPaymentsAPP\bin\Debug\netcoreapp3.1\EqualTotalPaymentsAPP.exe
+C:\Users\Sricharani Aleti\source\repos\EqualTotalPaymentsAPP\EqualTotalPaymentsAPP\bin\Debug\netcoreapp3.1\EqualTotalPaymentsAPP.deps.json
+C:\Users\Sricharani Aleti\source\repos\EqualTotalPaymentsAPP\EqualTotalPaymentsAPP\bin\Debug\netcoreapp3.1\EqualTotalPaymentsAPP.runtimeconfig.json
+C:\Users\Sricharani Aleti\source\repos\EqualTotalPaymentsAPP\EqualTotalPaymentsAPP\bin\Debug\netcoreapp3.1\EqualTotalPaymentsAPP.runtimeconfig.dev.json
+C:\Users\Sricharani Aleti\source\repos\EqualTotalPaymentsAPP\EqualTotalPaymentsAPP\bin\Debug\netcoreapp3.1\EqualTotalPaymentsAPP.dll
+C:\Users\Sricharani Aleti\source\repos\EqualTotalPaymentsAPP\EqualTotalPaymentsAPP\bin\Debug\netcoreapp3.1\EqualTotalPaymentsAPP.pdb
+C:\Users\Sricharani Aleti\source\repos\EqualTotalPaymentsAPP\EqualTotalPaymentsAPP\obj\Debug\netcoreapp3.1\EqualTotalPaymentsAPP.dll
+C:\Users\Sricharani Aleti\source\repos\EqualTotalPaymentsAPP\EqualTotalPaymentsAPP\obj\Debug\netcoreapp3.1\EqualTotalPaymentsAPP.pdb
+C:\Users\Sricharani Aleti\source\repos\EqualTotalPaymentsAPP\EqualTotalPaymentsAPP\obj\Debug\netcoreapp3.1\EqualTotalPaymentsAPP.genruntimeconfig.cache
